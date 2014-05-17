@@ -1,0 +1,39 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_a-master.css" crc="4123956851" ref="index"/>
+    <file name="index.css" crc="417987887" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="preview.png" crc="533465894" mt="1387200803000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3865766194" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="form_check.php" crc="3931498385" ref="index"/>
+    <file name="form_throttle.php" crc="4211444717" ref="index"/>
+    <file name="form-u1004.php" crc="474155521" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="--home-favicon.ico" crc="228862726" ref="index"/>
+    <file name="5.jpg" crc="325612234" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1.jpg" crc="4038199346" ref="index"/>
+    <file name="2.jpg" crc="3807603728" ref="index"/>
+    <file name="3.jpg" crc="4083874645" ref="index"/>
+    <file name="4.jpg" crc="169481662" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo____ copy_.png" crc="61078625" ref="index"/>
+    <file name="1-u1020-17.png" crc="4244822254" ref="index"/>
+    <file name="1-u1020-17-r.png" crc="295964694" ref="index"/>
+    <file name="1-u1020-17-m.png" crc="3797396357" ref="index"/>
+    <file name="1-u1020-17-fs.png" crc="47328495" ref="index"/>
+    <file name="logo copy.png" crc="372893116" ref="index"/>
+  </folder>
+  <file name="index.html" crc="376075097" mt="1387459421040" redirect="true"/>
+</manifest>
